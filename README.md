@@ -58,6 +58,11 @@ Student at index i needs to come to office hours.
 6. `main` calls the three functions. The `Failing` count and `Office hours` are the same number.
 7. In the README, write a short explanation in your own words. Name the three functions. Say what the references change in `main`, what the pointer writes, what a `nullptr` skips, and why `average` returns a `double`. Under that paragraph, paste the run you actually got.
 
+## READ ME EXPLANATION:
+There are three functions, countGrades, average, and officeHours. countGrades classifies what the grades are, so what numbers classify as an A or B, C, D, and failing. The references, int&, allows the variables to be whatever. officeHours uses the pointer int*, when it's not nullptr, it points to a variable that it wrote has the amount of office hours in it. if it is nullptr, it still writies in the variable, but does not point. average returns a double instead of an int so it can be a decimal.
+
+## ACTUAL RUN
+
 ## Sample shape
 This shows the shape of the report. Your fifty scores are random, so these numbers will not appear.
 
