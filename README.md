@@ -62,6 +62,91 @@ Student at index i needs to come to office hours.
 There are three functions, countGrades, average, and officeHours. countGrades classifies what the grades are, so what numbers classify as an A or B, C, D, and failing. The references, int&, allows the variables to be whatever. officeHours uses the pointer int*, when it's not nullptr, it points to a variable that it wrote has the amount of office hours in it. if it is nullptr, it still writies in the variable, but does not point. average returns a double instead of an int so it can be a decimal.
 
 ## ACTUAL RUN
+[0] 15
+[1] 93
+[2] 39
+[3] 84
+[4] 59
+[5] 96
+[6] 69
+[7] 86
+[8] 67
+[9] 32
+[10] 64
+[11] 59
+[12] 53
+[13] 64
+[14] 84
+[15] 15
+[16] 54
+[17] 95
+[18] 5
+[19] 18
+[20] 6
+[21] 78
+[22] 22
+[23] 25
+[24] 0
+[25] 31
+[26] 39
+[27] 90
+[28] 57
+[29] 85
+[30] 40
+[31] 10
+[32] 75
+[33] 14
+[34] 3
+[35] 73
+[36] 62
+[37] 25
+[38] 78
+[39] 13
+[40] 96
+[41] 35
+[42] 96
+[43] 78
+[44] 10
+[45] 88
+[46] 54
+[47] 34
+[48] 23
+[49] 69
+A: 6
+B: 5
+C: 5
+D: 6
+Failing: 28
+Average: 51.2
+Student at index 0 needs to come to office hours.
+Student at index 2 needs to come to office hours.
+Student at index 4 needs to come to office hours.
+Student at index 9 needs to come to office hours.
+Student at index 11 needs to come to office hours.
+Student at index 12 needs to come to office hours.
+Student at index 15 needs to come to office hours.
+Student at index 16 needs to come to office hours.
+Student at index 18 needs to come to office hours.
+Student at index 19 needs to come to office hours.
+Student at index 20 needs to come to office hours.
+Student at index 22 needs to come to office hours.
+Student at index 23 needs to come to office hours.
+Student at index 24 needs to come to office hours.
+Student at index 25 needs to come to office hours.
+Student at index 26 needs to come to office hours.
+Student at index 28 needs to come to office hours.
+Student at index 30 needs to come to office hours.
+Student at index 31 needs to come to office hours.
+Student at index 33 needs to come to office hours.
+Student at index 34 needs to come to office hours.
+Student at index 37 needs to come to office hours.
+Student at index 39 needs to come to office hours.
+Student at index 41 needs to come to office hours.
+Student at index 44 needs to come to office hours.
+Student at index 46 needs to come to office hours.
+Student at index 47 needs to come to office hours.
+Student at index 48 needs to come to office hours.
+Office hours: 28
 
 ## Sample shape
 This shows the shape of the report. Your fifty scores are random, so these numbers will not appear.
